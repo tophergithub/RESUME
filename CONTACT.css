@@ -1,0 +1,75 @@
+body {
+  background-image: url("galaxy.jpg");
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+a img {
+  height: 50px;
+  width: 50px;
+  color: Blue;
+}
+
+
+h1 {
+  color: #0e0d0d;
+  font-size: 36px;
+  margin-bottom: 40px;
+}
+
+form {
+  background-color: #1399ce;
+  border: 1px solid #0a0a0a;
+  box-shadow: 2px 2px 5px pink;
+  margin: 0 auto;
+  padding: 40px;
+  width: 500px;
+}
+
+label {
+  color: #0c0c0c;
+  display: block;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+input[type="text"], input[type="email"] {
+  border: 1px solid #030303;
+  border-radius: 5px;
+  padding: 10px;
+  width: 100%;
+}
+
+textarea {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  width: 100%;
+ 
+}
+
+input[type="submit"], input[type="reset"] {
+  background-color: #1a1616;
+  border: 0;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 18px;
+  margin-top: 20px;
+  padding: 10px 20px;
+}
+
+a {
+  color: #0e0d0d;
+  font-size: 20px;
+  margin-top: 40px;
+  text-decoration: none;
+  
+}
+
+p {
+  color: #0f0f0f;
+  font-size: 20px;
+  margin-top: 20px;
+}
